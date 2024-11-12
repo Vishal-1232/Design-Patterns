@@ -3,7 +3,7 @@
 ## When to Use:
 It is used when we have to hide the system complexity from client.  
   
-**example:** when client press accelerator or brake in car then the complexity behind how things are working are hidden. so we can say we provided client a ⭐Facade Layert⭐ where accelerator,brake and Stearing etc are present.  
+**example:** when client press accelerator or brake in car then the complexity behind how things are working are hidden. so we can say we provided client a ⭐Facade Layer⭐ where accelerator,brake and Stearing etc are present.  
 
 
 > we should not force client to use Facade layer, if client wants to go through the complexity then he can go.
